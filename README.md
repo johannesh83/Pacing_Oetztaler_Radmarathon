@@ -1,5 +1,7 @@
 # Das Ötztaler Radmarathon Pacing Tool
 
+“Mit welcher Zeit kann ich beim Ötzi rechnen?”
+
 ## Anwendungsempfehlungen
 
 - Nur grau hinterlegte Felder dürfen geändert werden.
