@@ -12,7 +12,7 @@
 - Um schnell zu einem Ergebnis zu kommen, reicht es aus, FTP und Gewicht anzupassen und alle übrigen Felder zu belassen, wie sie sind.
 
 # Mehr Details
-[Ausführlicher Erfahrungsbericht mit Empfehlung hier.](https://johannesheinrich.de/oetztaler-radmarathon-mit-welcher-zeit-kann-ich-beim-oetzi-rechnen/)
+[Ausführlicher Erfahrungsbericht mit Empfehlung hier.](https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/)
 
 # Vergelt´s Gott!
 
@@ -24,5 +24,5 @@ Keine Garantie, keine Gewährleistung. Das Tool dient nur dem Pacing und rein f�
 
 Lizenz
 -------
-[MIT](https://github.com/JohannesHeinrich/Pacing_Oetztaler_Radmarathon/blob/main/LICENSE) &copy; 2020 Johannes Heinrich
+[MIT](https://github.com/johannesh83/Pacing_Oetztaler_Radmarathon/blob/main/LICENSE) &copy; 2020 Johannes Heinrich
 
